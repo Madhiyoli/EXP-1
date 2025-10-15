@@ -44,11 +44,13 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ ![1](https://github.com/user-attachments/assets/c2357a11-2836-4daf-9187-c3e6c541eb9b)
+
 
 
 b.  KCL:
- 
+ ![kcl](https://github.com/user-attachments/assets/a0e2f57c-bd81-4f73-9b24-aa9417e6fa31)
+
 
 Calculation:
 
